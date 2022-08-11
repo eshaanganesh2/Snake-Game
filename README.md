@@ -33,7 +33,7 @@ Run the python script `snake_game.py` by executing the command below
 python snake_game.py
 ```
 
-## Demo
+## Demo (Demo GIFs may take 1-2 minutes to load :exclamation:)
 
 <h3> <ins> Menu Page </ins> </h3>
 
